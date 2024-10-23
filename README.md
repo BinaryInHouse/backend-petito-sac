@@ -99,10 +99,11 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 
 
-projectQuote
+
+## projectQuote
 example:
-http://localhost:3000/quotes/generate/ECM-2024244
-http://localhost:3000/quotes/generate/MOB-2024244
-http://localhost:3000/quotes/generate/DSK-2024244
-http://localhost:3000/quotes/generate/WEV-2024244
-http://localhost:3000/quotes/generate/CRM-2024244
+- http://localhost:3000/quotes/generate/ECM-2024244
+- http://localhost:3000/quotes/generate/MOB-2024244
+- http://localhost:3000/quotes/generate/DSK-2024244
+- http://localhost:3000/quotes/generate/WEV-2024244
+- http://localhost:3000/quotes/generate/CRM-2024244
